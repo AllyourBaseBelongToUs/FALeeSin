@@ -22,7 +22,7 @@ namespace FuckingAwesomeLeeSin
         public static string ChampName = "LeeSin";
         public static Orbwalking.Orbwalker Orbwalker;
         private static Obj_AI_Hero Player = ObjectManager.Player; // Instead of typing ObjectManager.Player you can just type Player
-        public static Spell Q,W, E, R;
+        public static Spell Q, W, E, R;
         public static Spellbook SBook;
         public static Items.Item Dfg;
         public static Vector2 JumpPos;
